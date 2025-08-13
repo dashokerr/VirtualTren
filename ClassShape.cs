@@ -30,7 +30,6 @@ namespace VirtualTren
             return width * height;
         }
     }
-
     internal class Circle : ClassShape
     {
         int R;

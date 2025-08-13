@@ -14,6 +14,7 @@ namespace VirtualTren
         public virtual void Feed()
         {
             Console.WriteLine("Animal is eating");
+            Console.WriteLine("Animal is eating");
         }
     }
 
