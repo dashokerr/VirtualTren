@@ -40,6 +40,8 @@ namespace VirtualTren
         public override void MakeSound()
         {
             Console.WriteLine("Squack!");
+
+
         }
 
         public override void Feed() => Console.WriteLine("Parrots eat seeds");
@@ -55,7 +57,7 @@ namespace VirtualTren
                 anim.MakeSound();
             }
         }
-gggggggggg
+
         public static void FeedAll(Animal[] animal)
         {
             foreach (Animal anim in animal)
