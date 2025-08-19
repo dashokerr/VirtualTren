@@ -8,7 +8,7 @@ namespace VirtualTren
 {
     internal class ClassAnimals
     {
-        public  virtual void MakeSound()
+        public    virtual void MakeSound()
         {
             Console.WriteLine("Sound");
         }
