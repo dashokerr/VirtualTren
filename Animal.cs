@@ -44,7 +44,7 @@ namespace VirtualTren
 
         }
 
-        public override void Feed() => Console.WriteLine("Parrots eat seeds");
+        public override void Feed() => Console.WriteLine("Parrots eat seeds 66666");
 
     }
 
