@@ -15,7 +15,7 @@ namespace VirtualTren
     {
         public override void Move()
         {
-            Console.WriteLine("rrrr eeeeee");
+            Console.WriteLine("rrrr");
         }
     }
 
