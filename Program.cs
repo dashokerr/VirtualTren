@@ -43,3 +43,4 @@ Animal[] animals = new Animal[3] { new Parrot() ,new Elephant(), new Lion()};
 
 Zoo.MakeAllSounds(animals);
 Zoo.FeedAll(animals);
+//оыапшаптшашокеопкещопкещопькщеоп изменения во 2 ветке
